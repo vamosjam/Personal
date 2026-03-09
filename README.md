@@ -34,11 +34,15 @@ These highlights are based on real work and may be lightly rounded or generalize
 
 ## Start Here
 
+If you are reviewing this before a conversation with me, start with the experience overview and then scan the case studies that best match the role.
+
 - [Experience Highlights](./experience-highlights.md)
 - [Cloud Reliability, Automation, and FinOps](./case-studies/cloud-reliability-and-finops.md)
 - [Clinical Go-Live Support and Operational Stabilization](./case-studies/clinical-go-live-support.md)
 - [Platform Ownership and Modernization](./case-studies/platform-ownership-and-modernization.md)
 - [Operational Documentation and Risk Readiness](./case-studies/operational-documentation-and-risk-readiness.md)
+
+For interviews, I can also walk through a private sanitized evidence kit with rebuilt diagrams, leadership examples, and decision-making stories that are not appropriate for public GitHub publication.
 
 ## Public-Safe Sharing Standard
 
