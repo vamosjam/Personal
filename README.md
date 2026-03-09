@@ -49,6 +49,8 @@ If a project cannot be shared directly, I rewrite it as a case study that preser
 
 See [PUBLIC_PORTFOLIO_POLICY.md](./PUBLIC_PORTFOLIO_POLICY.md).
 
+For interviews, I also maintain a separate private evidence kit with sanitized walkthroughs, rebuilt diagrams, and recognition-backed examples that are not appropriate for public GitHub publication.
+
 ## Portfolio Principles
 
 - Ground everything in real work.
