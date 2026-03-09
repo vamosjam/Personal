@@ -35,6 +35,7 @@ When converting private work into public portfolio content:
 - remove client names unless they are public and necessary
 - remove private identifiers, dates, IDs, and links
 - generalize sensitive quantities when exact values are not safe to disclose
+- round counts, savings, or scope figures when exact values would expose unnecessary internal detail
 - describe outcomes honestly without revealing confidential operations
 - preserve technical truth while reducing exposure
 
